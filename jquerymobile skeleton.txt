@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<script src="jquerymobile/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="jquerymobile/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="jquerymobile/jquery.mobile-1.4.5.min.css">
+<script src="jquerymobile/jquery.mobile-1.4.5.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+<div data-role='page' id='pageone'>
+<div data-role='header'></div>
+<div data-role='main' class='ui-content'></div>
+<div data-role='footer'></div>
+</div>
+
+</body>
+</html>
